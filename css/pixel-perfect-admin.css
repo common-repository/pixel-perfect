@@ -1,0 +1,9 @@
+#pxp_options #main{float:left;width:69%;}
+#pxp_options #sidebar{float:right;width:26%;padding:2%;}
+#pxp_options .description{background:#eee;border:1px solid #ccc;border-radius:5px;margin:20px 0;padding:10px;}
+#pxp_options .description p{margin:0;}
+#pxp_options_form li{margin-bottom:20px;}
+#pxp_options_form li label{width:150px;display:block;float:left;margin-right:20px;}
+#pxp_options_form li img{background:#fff;padding:4px;border:1px solid #ccc;margin-left:170px;display:block;margin-bottom:20px;}
+#pxp_options_form #pxp_delete{margin-left:170px;}
+#pxp_options_form span{color:#999;margin-left:20px;}
